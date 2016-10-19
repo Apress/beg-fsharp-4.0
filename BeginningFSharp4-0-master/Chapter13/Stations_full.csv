@@ -1,0 +1,270 @@
+Station,Line(s),Local Authority,Zone(s),Usage
+Acton Town,District Piccadilly,Ealing,3,6.06
+Aldgate,Metropolitan[a] Circle,City of London,1,7.22
+Aldgate East,Hammersmith & City[d] District,Tower Hamlets,1,12.25
+Alperton,Piccadilly[h],Brent,4,3.17
+Amersham,Metropolitan,Chiltern,9,2.44
+Angel,Northern,Islington,1,19.22
+Archway,Northern,Islington,2&3,8.94
+Arnos Grove,Piccadilly,Enfield,4,4.71
+Arsenal,Piccadilly,Islington,2,2.90
+Baker Street,Metropolitan[b] Bakerloo Circle Jubilee Hammersmith & City,City of Westminster,1,32.18
+Balham,Northern,Wandsworth,3,13.47
+Bank,Waterloo & City Northern Central,City of London,1,52.31 [note 3]
+Barbican,Metropolitan[b] Circle Hammersmith & City,City of London,1,11.44
+Barking,District[j] Hammersmith & City,Barking and Dagenham,4,15.59
+Barkingside,Central,Redbridge,4,1.35
+Barons Court,District Piccadilly,Hammersmith and Fulham,2,7.50
+Bayswater,District[c] Circle,City of Westminster,1,5.69
+Becontree,District,Barking and Dagenham,5,3.40
+Belsize Park,Northern,Camden,2,5.93
+Bermondsey,Jubilee,Southwark,2,9.38
+Bethnal Green,Central,Tower Hamlets,2,16.08
+Blackfriars,District[i] Circle,City of London,1,13.14
+Blackhorse Road,Victoria,Waltham Forest,3,8.63
+Bond Street,Central Jubilee,City of Westminster,1,19.80
+Borough,Northern,Southwark,1,5.31
+Boston Manor,Piccadilly[l],Ealing Hounslow,4,2.28
+Bounds Green,Piccadilly,Haringey,3&4,6.56
+Bow Road,District[j] Hammersmith & City,Tower Hamlets,2,5.77
+Brent Cross,Northern,Barnet,3,2.40
+Brixton,Victoria,Lambeth,2,29.37
+Bromley-by-Bow,District[j] Hammersmith & City,Tower Hamlets,2&3,3.41
+Buckhurst Hill,Central,Epping Forest,5,2.06
+Burnt Oak,Northern,Barnet,4,4.08
+Caledonian Road,Piccadilly,Islington,2,6.00
+Camden Town,Northern,Camden,2,23.37
+Canada Water,Jubilee,Southwark,2,11.81
+Canary Wharf,Jubilee,Tower Hamlets,2,51.81
+Canning Town,Jubilee,Newham,2&3,10.10
+Cannon Street,District[i] Circle,City of London,1,5.30
+Canons Park,Jubilee[e],Harrow,5,2.60
+Chalfont & Latimer,Metropolitan,Chiltern,8,1.48
+Chalk Farm,Northern,Camden,2,5.89
+Chancery Lane,Central,City of London Camden,1,16.59
+Charing Cross,Bakerloo Northern,City of Westminster,1,21.30
+Chesham,Metropolitan,Chiltern,9,0.81
+Chigwell,Central,Epping Forest,4,0.53
+Chiswick Park,District,Ealing,3,2.39
+Chorleywood,Metropolitan,Three Rivers,7,1.06
+Clapham Common,Northern,Lambeth,2,8.94
+Clapham North,Northern,Lambeth,2,6.67
+Clapham South,Northern,Wandsworth,2&3,8.47
+Cockfosters,Piccadilly,Enfield,5,1.95
+Colindale,Northern,Barnet,4,5.40
+Colliers Wood,Northern,Merton,3,6.31
+Covent Garden,Piccadilly,City of Westminster,1,15.38
+Croxley,Metropolitan,Three Rivers,7,1.03
+Dagenham East,District,Barking and Dagenham,5,2.66
+Dagenham Heathway,District,Barking and Dagenham,5,5.80
+Debden,Central,Epping Forest,6,2.48
+Dollis Hill,Jubilee[e],Brent,3,3.08
+Ealing Broadway,District Central,Ealing,3,17.38
+Ealing Common,District Piccadilly,Ealing,3,3.57
+Earl's Court,District Piccadilly,Kensington and Chelsea,1&2,22.01
+East Acton,Central,Hammersmith and Fulham,2,4.02
+East Finchley,Northern,Barnet,3,7.32
+East Ham,District[j] Hammersmith & City,Newham,3&4,14.82
+East Putney,District,Wandsworth,2&3,6.14
+Eastcote,Metropolitan Piccadilly[k],Hillingdon,5,2.76
+Edgware,Northern,Barnet,5,4.59
+Edgware Road,Bakerloo,City of Westminster,1,4.26
+Edgware Road,Hammersmith & City[c][d] District Circle,City of Westminster,1,7.33
+Elephant & Castle,Northern Bakerloo,Southwark,1&2,18.48
+Elm Park,District,Havering,6,2.99
+Embankment,District[i] Bakerloo Northern Circle,City of Westminster,1,19.66
+Epping,Central,Epping Forest,6,3.07
+Euston,Northern Victoria,Camden,1,41.33
+Euston Square,Metropolitan[b] Circle Hammersmith & City,Camden,1,14.33
+Fairlop,Central,Redbridge,4,1.09
+Farringdon,Metropolitan[b] Circle Hammersmith & City,Islington,1,23.63
+Finchley Central,Northern,Barnet,4,5.68
+Finchley Road,Metropolitan Jubilee[f],Camden,2,10.06
+Finsbury Park,Piccadilly Victoria,Islington,2,28.00
+Fulham Broadway,District,Hammersmith and Fulham,2,10.77
+Gants Hill,Central,Redbridge,4,6.56
+Gloucester Road,District[c] Piccadilly Circle,Kensington and Chelsea,1,11.96
+Golders Green,Northern,Barnet,3,8.25
+Goldhawk Road,Hammersmith & City[m] Circle,Hammersmith and Fulham,2,2.10
+Goodge Street,Northern,Camden,1,8.38
+Grange Hill,Central,Redbridge,4,0.60
+Great Portland Street,Metropolitan[b] Circle Hammersmith & City,City of Westminster,1,8.43
+Greenford,Central,Ealing,4,4.63
+Green Park,Piccadilly Victoria Jubilee,City of Westminster,1,39.83
+Gunnersbury,District,Hounslow,3,5.41
+Hainault,Central,Redbridge,4,3.48
+Hammersmith,District Piccadilly,Hammersmith and Fulham,2,29.26
+Hammersmith,Hammersmith & City[m] Circle,Hammersmith and Fulham,2,9.72
+Hampstead,Northern,Camden,2&3,4.36
+Hanger Lane,Central,Ealing,3,3.84
+Harlesden,Bakerloo,Brent,3,2.77
+Harrow & Wealdstone,Bakerloo,Harrow,5,4.51
+Harrow-on-the-Hill,Metropolitan,Harrow,5,9.87
+Hatton Cross,Piccadilly,Hillingdon,5&6,3.22
+Heathrow Terminals 2 & 3,Piccadilly,Hillingdon,6,7.66
+Heathrow Terminal 4,Piccadilly,Hillingdon,6,2.13
+Heathrow Terminal 5,Piccadilly,Hillingdon,6,4.22
+Hendon Central,Northern,Barnet,3&4,7.40
+High Barnet,Northern,Barnet,5,3.23
+Highbury & Islington,Victoria,Islington,2,18.28
+Highgate,Northern,Haringey,3,5.04
+High Street Kensington,District[c] Circle,Kensington and Chelsea,1,13.78
+Hillingdon,Metropolitan Piccadilly[k],Hillingdon,6,1.80
+Holborn,Central Piccadilly,Camden,1,36.32
+Holland Park,Central,Kensington and Chelsea,2,3.16
+Holloway Road,Piccadilly,Islington,2,6.66
+Hornchurch,District,Havering,6,2.15
+Hounslow Central,Piccadilly[l],Hounslow,4,4.01
+Hounslow East,Piccadilly[l],Hounslow,4,4.67
+Hounslow West,Piccadilly[l],Hounslow,5,3.61
+Hyde Park Corner,Piccadilly,City of Westminster,1,5.84
+Ickenham,Metropolitan Piccadilly[k],Hillingdon,6,1.16
+Kennington,Northern,Southwark,2,4.96
+Kensal Green,Bakerloo,Brent,2,2.28
+Kensington (Olympia),District,Kensington and Chelsea,2,1.95
+Kentish Town,Northern,Camden,2,7.72
+Kenton,Bakerloo,Brent Harrow,4,1.96
+Kew Gardens,District,Richmond,3&4,3.56
+Kilburn,Jubilee[e],Brent,2,7.87
+Kilburn Park,Bakerloo,Brent,2,3.38
+Kingsbury,Jubilee[e],Brent,4,4.59
+King's Cross St. Pancras,Metropolitan[b] Northern Piccadilly Circle Victoria Hammersmith & City,Camden,1,91.98
+Knightsbridge,Piccadilly,Kensington and Chelsea,1,21.47
+Ladbroke Grove,Hammersmith & City[m] Circle,Kensington and Chelsea,2,6.08
+Lambeth North,Bakerloo,Lambeth,1,3.57
+Lancaster Gate,Central,City of Westminster,1,6.55
+Latimer Road,Hammersmith & City[m] Circle,Kensington and Chelsea,2,6.55
+Leicester Square,Piccadilly Northern,City of Westminster,1,43.31
+Leyton,Central,Waltham Forest,3,14.07
+Leytonstone,Central,Waltham Forest,3&4,11.05
+Liverpool Street,Metropolitan[b] Central Circle Hammersmith & City,City of London,1,73.66
+London Bridge,Northern Jubilee,Southwark,1,74.98
+Loughton,Central,Epping Forest,6,3.26
+Maida Vale,Bakerloo,City of Westminster,2,3.45
+Manor House,Piccadilly,Hackney Haringey,2&3,9.39
+Mansion House,District[i] Circle,City of London,1,6.20
+Marble Arch,Central,City of Westminster,1,16.11
+Marylebone,Bakerloo,City of Westminster,1,13.30
+Mile End,District[j] Hammersmith & City Central,Tower Hamlets,2,15.60
+Mill Hill East,Northern,Barnet,4,1.29
+Monument,District[i] Circle,City of London,1,52.31 [note 3]
+Moorgate,Metropolitan[b] Northern Circle Hammersmith & City,City of London,1,25.90
+Moor Park,Metropolitan,Three Rivers,6&7,0.89
+Morden,Northern,Merton,4,8.62
+Mornington Crescent,Northern,Camden,2,4.76
+Neasden,Jubilee[e],Brent,3,3.41
+Newbury Park,Central,Redbridge,4,4.62
+North Acton,Central,Ealing,2&3,5.68
+North Ealing,Piccadilly[h],Ealing,3,0.89
+North Greenwich,Jubilee,Greenwich,2&3,24.27
+North Harrow,Metropolitan,Harrow,5,1.82
+North Wembley,Bakerloo,Brent,4,1.66
+Northfields,Piccadilly[l],Ealing,3,4.21
+Northolt,Central,Ealing,5,4.99
+Northwick Park,Metropolitan,Brent,4,4.44
+Northwood,Metropolitan,Hillingdon,6,2.46
+Northwood Hills,Metropolitan,Hillingdon,6,1.63
+Notting Hill Gate,District[c] Central Circle,Kensington and Chelsea,1&2,17.40
+Oakwood,Piccadilly,Enfield,5,2.94
+Old Street,Northern,Islington Hackney,1,23.28
+Osterley,Piccadilly[l],Hounslow,4,2.46
+Oval,Northern,Lambeth,2,6.40
+Oxford Circus,Central Bakerloo Victoria,City of Westminster,1,98.51
+Paddington,Hammersmith & City[d] District Circle Bakerloo,City of Westminster,1,49.28
+Park Royal,Piccadilly,Ealing,3,1.98
+Parsons Green,District,Hammersmith and Fulham,2,6.80
+Perivale,Central,Ealing,4,2.34
+Piccadilly Circus,Bakerloo Piccadilly,City of Westminster,1,42.93
+Pimlico,Victoria,City of Westminster,1,11.42
+Pinner,Metropolitan,Harrow,5,2.84
+Plaistow,District[j] Hammersmith & City,Newham,3,6.79
+Preston Road,Metropolitan,Brent,4,3.47
+Putney Bridge,District,Hammersmith and Fulham,2,5.93
+Queen's Park,Bakerloo,Brent,2,5.84
+Queensbury,Jubilee[e],Brent,4,4.20
+Queensway,Central,City of Westminster,1,7.59
+Ravenscourt Park,District,Hammersmith and Fulham,2,2.91
+Rayners Lane,Metropolitan Piccadilly[k],Harrow,5,4.37
+Redbridge,Central,Redbridge,4,2.91
+Regent's Park,Bakerloo,City of Westminster,1,3.71
+Richmond,District,Richmond,4,8.45
+Rickmansworth,Metropolitan,Three Rivers,7,2.42
+Roding Valley,Central,Epping Forest Redbridge,4,0.26
+Royal Oak,Hammersmith & City[m] Circle,City of Westminster,2,2.70
+Ruislip,Metropolitan Piccadilly[k],Hillingdon,6,1.90
+Ruislip Gardens,Central,Hillingdon,5,1.08
+Ruislip Manor,Metropolitan Piccadilly[k],Hillingdon,6,1.98
+Russell Square,Piccadilly,Camden,1,13.08
+St. James's Park,District[i] Circle,City of Westminster,1,15.73
+St. John's Wood,Jubilee[g],City of Westminster,2,7.62
+St. Paul's,Central,City of London,1,17.54
+Seven Sisters,Victoria,Haringey,3,15.97
+Shepherd's Bush,Central,Hammersmith and Fulham,2,22.87
+Shepherd's Bush Market,Hammersmith & City[m] Circle,Hammersmith and Fulham,2,3.66
+Sloane Square,District[i] Circle,Kensington and Chelsea,1,16.76
+Snaresbrook,Central,Redbridge,4,2.78
+South Ealing,Piccadilly[l],Ealing,3,3.70
+South Harrow,Piccadilly[h],Harrow,5,2.50
+South Kensington,District[i] Piccadilly Circle,Kensington and Chelsea,1,36.46
+South Kenton,Bakerloo,Brent,4,1.10
+South Ruislip,Central,Hillingdon,5,1.76
+South Wimbledon,Northern,Merton,3&4,4.28
+South Woodford,Central,Redbridge,4,5.03
+Southfields,District,Wandsworth,3,6.13
+Southgate,Piccadilly,Enfield,4,5.63
+Southwark,Jubilee,Southwark,1,14.15
+Stamford Brook,District,Hammersmith and Fulham,2,2.67
+Stanmore,Jubilee[e],Harrow,5,3.89
+Stepney Green,District[j] Hammersmith & City,Tower Hamlets,2,5.43
+Stockwell,Northern Victoria,Lambeth,2,10.52
+Stonebridge Park,Bakerloo,Brent,3,2.61
+Stratford,Central Jubilee,Newham,2&3,59.31
+Sudbury Hill,Piccadilly[h],Ealing Harrow,4,2.21
+Sudbury Town,Piccadilly[h],Brent Ealing,4,2.10
+Swiss Cottage,Jubilee[g],Camden,2,7.28
+Temple,District[i] Circle,City of Westminster,1,8.14
+Theydon Bois,Central,Epping Forest,6,0.85
+Tooting Bec,Northern,Wandsworth,3,7.56
+Tooting Broadway,Northern,Wandsworth,3,15.11
+Tottenham Court Road,Central Northern,City of Westminster,1,36.76
+Tottenham Hale,Victoria,Haringey,3,11.91
+Totteridge & Whetstone,Northern,Barnet,4,2.24
+Tower Hill,District[i] Circle,Tower Hamlets,1,26.32
+Tufnell Park,Northern,Islington,2,3.94
+Turnham Green,District Piccadilly,Hounslow,2&3,6.46
+Turnpike Lane,Piccadilly,Haringey,3,10.77
+Upminster,District,Havering,6,5.16
+Upminster Bridge,District,Havering,6,1.14
+Upney,District,Barking and Dagenham,4,2.53
+Upton Park,District[j] Hammersmith & City,Newham,3,11.41
+Uxbridge,Metropolitan Piccadilly[k],Hillingdon,6,8.07
+Vauxhall,Victoria,Lambeth,1&2,27.51
+Victoria,District[i] Circle Victoria,City of Westminster,1,86.73
+Walthamstow Central,Victoria,Waltham Forest,3,18.05
+Wanstead,Central,Redbridge,4,3.09
+Warren Street,Northern Victoria,Camden,1,19.41
+Warwick Avenue,Bakerloo,City of Westminster,2,4.51
+Waterloo,Waterloo & City Bakerloo Northern Jubilee,Lambeth,1,91.49
+Watford,Metropolitan,Watford,7,1.76
+Wembley Central,Bakerloo,Brent,4,5.52
+Wembley Park,Metropolitan Jubilee[f],Brent,4,14.11
+West Acton,Central,Ealing,3,1.67
+West Brompton,District,Kensington and Chelsea,2,4.47
+West Finchley,Northern,Barnet,4,1.54
+West Ham,District[j] Hammersmith & City Jubilee,Newham,2&3,3.51
+West Hampstead,Jubilee[e],Camden,2,10.59
+West Harrow,Metropolitan,Harrow,5,1.20
+West Kensington,District,Hammersmith and Fulham,2,5.14
+West Ruislip,Central,Hillingdon,6,1.56
+Westbourne Park,Hammersmith & City[m] Circle,City of Westminster,2,3.73
+Westminster,District[i] Circle Jubilee,City of Westminster,1,26.03
+White City,Central,Hammersmith and Fulham,2,7.51
+Whitechapel,District[j] Hammersmith & City,Tower Hamlets,2,12.89
+Willesden Green,Jubilee[e],Brent,2&3,8.82
+Willesden Junction,Bakerloo,Brent,2&3,4.50
+Wimbledon,District,Merton,3,15.30
+Wimbledon Park,District,Merton,3,1.81
+Wood Green,Piccadilly,Haringey,3,13.35
+Wood Lane,Hammersmith & City Circle,Hammersmith and Fulham,2,3.98
+Woodford,Central,Redbridge,4,5.87
+Woodside Park,Northern,Barnet,4,2.65
